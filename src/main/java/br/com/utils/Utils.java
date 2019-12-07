@@ -1,9 +1,11 @@
-package utils;
+package br.com.utils;
 
-import app.App;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
+
+import br.com.app.App;
+
 import java.io.File;
 import java.io.IOException;
 

@@ -1,9 +1,10 @@
-package hooks;
+package br.com.hooks;
 
 import cucumber.api.java.After;
-import utils.Utils;
 
 import java.io.IOException;
+
+import br.com.utils.Utils;
 
 public class Hooks {
 

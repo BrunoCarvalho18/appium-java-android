@@ -1,10 +1,10 @@
-package steps;
+package br.com.steps;
 
-import hooks.Hooks;
+import br.com.funcionalidades.HomeFuncionalidade;
+import br.com.hooks.Hooks;
 import cucumber.api.java.pt.Dado;
 import cucumber.api.java.pt.Então;
 import cucumber.api.java.pt.Quando;
-import funcionalidades.HomeFuncionalidade;
 
 
 public class SomaSteps {

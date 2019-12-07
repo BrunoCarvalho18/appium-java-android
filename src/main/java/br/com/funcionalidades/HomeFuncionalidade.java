@@ -1,7 +1,8 @@
-package funcionalidades;
+package br.com.funcionalidades;
 
-import screens.HomeScreen;
 import static junit.framework.TestCase.assertTrue;
+
+import br.com.screens.HomeScreen;
 
 
 public class HomeFuncionalidade {

@@ -1,11 +1,13 @@
-package screens;
+package br.com.screens;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
+
+import static br.com.app.App.getDriver;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.PageFactory;
-import static app.App.getDriver;
 
 
 public class HomeScreen {
